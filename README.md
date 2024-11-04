@@ -5,8 +5,4 @@ Simply download the file. If you are on linux or macOS, make sure you have the l
 # Usage
 Once you have the file downloaded, you just do `python3 /path/to/file.py` or `python /path/to/file.py`
 # Dependencies
-Dependencies:
- -Python
- -A shell like Zsh or Bash or Fish
- -Any terminal
-
+Dependencies: Python, A shell, A terminal
